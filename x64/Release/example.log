@@ -1,0 +1,10 @@
+﻿  Spoof.cpp
+C:\Users\sohom\Desktop\Perm Unban Loader\Utility\skStr.h(134,1): warning C4005: 'skCrypt': macro redefinition
+C:\Users\sohom\Desktop\Perm Unban Loader\Utility\skStr.h(133,1): message : see previous definition of 'skCrypt'
+C:\Users\sohom\Desktop\Perm Unban Loader\Protection\antidebug.h(158,11): warning C4305: 'return': truncation from 'int' to 'bool'
+  Generating code
+  550 of 1077 functions (51.1%) were compiled, the rest were copied from previous compilation.
+    272 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example.vcxproj -> C:\Users\sohom\Desktop\Perm Unban Loader\x64\Release\SylvoraPerm.exe
