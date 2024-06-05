@@ -6,12 +6,12 @@
 ## Supported Games
 | Game Name | Status  |
 | ---- | ---- |
-| Apex |   :x: Everything working |
+| Apex |   :heavy_check_mark: Everything working |
 | R6 |  :heavy_check_mark: Everything working |
-| EFT | :x: Everything working |
-| Rust | :x: Everything working |
-| Fortnite | :x: Everything working |
-| Overwatch 2 | :heavy_check_mark: Everything working |
+| EFT | :heavy_check_mark: Everything working |
+| Rust | :heavy_check_mark: Everything working |
+| Fortnite | :heavy_check_mark: Everything working |
+| Overwatch 2 [Anti-Flag] | :heavy_check_mark: Everything working |
 
 ---
 
