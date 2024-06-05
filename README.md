@@ -4,17 +4,13 @@
 
 
 ## Supported Games
-**XDefiant and R6 is updated regularly, everything else will be updated soon**
 | Game Name | Status  |
 | ---- | ---- |
-| CS2 |   :heavy_check_mark: Everything working |
-| XDefiant |   :heavy_check_mark: Everything working |
-| Apex |   :x: Use at own risk! |
+| Apex |   :x: Everything working |
 | R6 |  :heavy_check_mark: Everything working |
-| EFT | :x: Use at own risk! |
-| Rust | :x: Use at own risk! |
-| MW3/Warzone | :heavy_check_mark: Everything working |
-| Fortnite | :x: Use at own risk! |
+| EFT | :x: Everything working |
+| Rust | :x: Everything working |
+| Fortnite | :x: Everything working |
 | Overwatch 2 | :heavy_check_mark: Everything working |
 
 ---
